@@ -4,4 +4,5 @@
 *.scss.map
 
 node_modules/
+css/build/
 css/style.css
